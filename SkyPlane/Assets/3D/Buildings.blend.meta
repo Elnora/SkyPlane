@@ -78,6 +78,28 @@ ModelImporter:
     100144: Cube_024
     100146: Cube_025
     100148: Cube_026
+    100150: Plane
+    100152: Arch
+    100154: Bridge01
+    100156: BridgeStair
+    100158: Deco01
+    100160: House01
+    100162: House02
+    100164: House03
+    100166: House04
+    100168: Stair01
+    100170: Stair02
+    100172: Stair03
+    100174: Tower01
+    100176: Tower02
+    100178: Tower03
+    100180: Arch_001
+    100182: Arch_002
+    100184: Arch_003
+    100186: Arch_005
+    100188: Building
+    100190: Cube_000
+    100192: StairSpiral
     400000: //RootNode
     400002: Cube
     400004: Cube_001
@@ -153,6 +175,28 @@ ModelImporter:
     400144: Cube_024
     400146: Cube_025
     400148: Cube_026
+    400150: Plane
+    400152: Arch
+    400154: Bridge01
+    400156: BridgeStair
+    400158: Deco01
+    400160: House01
+    400162: House02
+    400164: House03
+    400166: House04
+    400168: Stair01
+    400170: Stair02
+    400172: Stair03
+    400174: Tower01
+    400176: Tower02
+    400178: Tower03
+    400180: Arch_001
+    400182: Arch_002
+    400184: Arch_003
+    400186: Arch_005
+    400188: Building
+    400190: Cube_000
+    400192: StairSpiral
     2100000: test
     2100002: unnamed
     2300000: Cube
@@ -228,6 +272,28 @@ ModelImporter:
     2300140: Cube_024
     2300142: Cube_025
     2300144: Cube_026
+    2300146: Plane
+    2300148: Arch
+    2300150: Bridge01
+    2300152: BridgeStair
+    2300154: Deco01
+    2300156: House01
+    2300158: House02
+    2300160: House03
+    2300162: House04
+    2300164: Stair01
+    2300166: Stair02
+    2300168: Stair03
+    2300170: Tower01
+    2300172: Tower02
+    2300174: Tower03
+    2300176: Arch_001
+    2300178: Arch_002
+    2300180: Arch_003
+    2300182: Arch_005
+    2300184: Building
+    2300186: Cube_000
+    2300188: StairSpiral
     3300000: Cube
     3300002: Cube_001
     3300004: Cube_002
@@ -301,6 +367,28 @@ ModelImporter:
     3300140: Cube_024
     3300142: Cube_025
     3300144: Cube_026
+    3300146: Plane
+    3300148: Arch
+    3300150: Bridge01
+    3300152: BridgeStair
+    3300154: Deco01
+    3300156: House01
+    3300158: House02
+    3300160: House03
+    3300162: House04
+    3300164: Stair01
+    3300166: Stair02
+    3300168: Stair03
+    3300170: Tower01
+    3300172: Tower02
+    3300174: Tower03
+    3300176: Arch_001
+    3300178: Arch_002
+    3300180: Arch_003
+    3300182: Arch_005
+    3300184: Building
+    3300186: Cube_000
+    3300188: StairSpiral
     4300000: Cylinder_025
     4300002: Cylinder_024
     4300004: Cylinder_027
@@ -374,6 +462,28 @@ ModelImporter:
     4300140: Cube_023
     4300142: Cube_022
     4300144: Cube_014
+    4300146: Plane
+    4300148: Arch
+    4300150: Stair01
+    4300152: BridgeStair
+    4300154: Deco01
+    4300156: Tower03
+    4300158: Stair02
+    4300160: House01
+    4300162: House04
+    4300164: Tower02
+    4300166: House03
+    4300168: House02
+    4300170: Tower01
+    4300172: Stair03
+    4300174: Bridge01
+    4300176: Arch_005
+    4300178: Arch_003
+    4300180: Arch_002
+    4300182: Cube_000
+    4300184: Building
+    4300186: Arch_001
+    4300188: StairSpiral
     7400000: Default Take
     9500000: //RootNode
   externalObjects: {}
