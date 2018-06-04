@@ -100,6 +100,15 @@ ModelImporter:
     100188: Building
     100190: Cube_000
     100192: StairSpiral
+    100194: Cube_032
+    100196: StairSpiral_002
+    100198: StairSpiral_003
+    100200: Baluster
+    100202: BalusterEnd
+    100204: Corner
+    100206: House05
+    100208: Pillar
+    100210: Window
     400000: //RootNode
     400002: Cube
     400004: Cube_001
@@ -197,6 +206,15 @@ ModelImporter:
     400188: Building
     400190: Cube_000
     400192: StairSpiral
+    400194: Cube_032
+    400196: StairSpiral_002
+    400198: StairSpiral_003
+    400200: Baluster
+    400202: BalusterEnd
+    400204: Corner
+    400206: House05
+    400208: Pillar
+    400210: Window
     2100000: test
     2100002: unnamed
     2300000: Cube
@@ -294,6 +312,15 @@ ModelImporter:
     2300184: Building
     2300186: Cube_000
     2300188: StairSpiral
+    2300190: Cube_032
+    2300192: StairSpiral_002
+    2300194: StairSpiral_003
+    2300196: Baluster
+    2300198: BalusterEnd
+    2300200: Corner
+    2300202: House05
+    2300204: Pillar
+    2300206: Window
     3300000: Cube
     3300002: Cube_001
     3300004: Cube_002
@@ -389,6 +416,15 @@ ModelImporter:
     3300184: Building
     3300186: Cube_000
     3300188: StairSpiral
+    3300190: Cube_032
+    3300192: StairSpiral_002
+    3300194: StairSpiral_003
+    3300196: Baluster
+    3300198: BalusterEnd
+    3300200: Corner
+    3300202: House05
+    3300204: Pillar
+    3300206: Window
     4300000: Cylinder_025
     4300002: Cylinder_024
     4300004: Cylinder_027
@@ -484,8 +520,18 @@ ModelImporter:
     4300184: Building
     4300186: Arch_001
     4300188: StairSpiral
+    4300190: StairSpiral_003
+    4300192: StairSpiral_002
+    4300194: Cube_032
+    4300196: BalusterEnd
+    4300198: Window
+    4300200: Corner
+    4300202: House05
+    4300204: Baluster
+    4300206: Pillar
     7400000: Default Take
     9500000: //RootNode
+    2186277476908879412: ImportLogs
   externalObjects: {}
   materials:
     importMaterials: 1
