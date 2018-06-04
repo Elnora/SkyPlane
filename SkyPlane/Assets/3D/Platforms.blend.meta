@@ -48,6 +48,24 @@ ModelImporter:
     100084: Cylinder_022
     100086: Empty_001
     100088: //RootNode
+    100090: Platform01
+    100092: Platform01_001
+    100094: Platform01_002
+    100096: Platform01_005
+    100098: Platform02
+    100100: Platform_000
+    100102: Platform_001
+    100104: Platform_002
+    100106: Platform_003
+    100108: Platform_004
+    100110: PlatformHigh
+    100112: PlatformHigh_001
+    100114: PlatformHigh_002
+    100116: Rock
+    100118: Rock_001
+    100120: Rock_002
+    100122: Rock_003
+    100124: Rock_004
     400000: Cube
     400002: Cube_001
     400004: Cube_002
@@ -93,6 +111,24 @@ ModelImporter:
     400084: Cylinder_022
     400086: Empty_001
     400088: //RootNode
+    400090: Platform01
+    400092: Platform01_001
+    400094: Platform01_002
+    400096: Platform01_005
+    400098: Platform02
+    400100: Platform_000
+    400102: Platform_001
+    400104: Platform_002
+    400106: Platform_003
+    400108: Platform_004
+    400110: PlatformHigh
+    400112: PlatformHigh_001
+    400114: PlatformHigh_002
+    400116: Rock
+    400118: Rock_001
+    400120: Rock_002
+    400122: Rock_003
+    400124: Rock_004
     2100000: unnamed
     2100002: test
     2300000: Cube
@@ -139,6 +175,24 @@ ModelImporter:
     2300082: Cylinder_021
     2300084: Cylinder_022
     2300086: //RootNode
+    2300088: Platform01
+    2300090: Platform01_001
+    2300092: Platform01_002
+    2300094: Platform01_005
+    2300096: Platform02
+    2300098: Platform_000
+    2300100: Platform_001
+    2300102: Platform_002
+    2300104: Platform_003
+    2300106: Platform_004
+    2300108: PlatformHigh
+    2300110: PlatformHigh_001
+    2300112: PlatformHigh_002
+    2300114: Rock
+    2300116: Rock_001
+    2300118: Rock_002
+    2300120: Rock_003
+    2300122: Rock_004
     3300000: Cube
     3300002: Cube_001
     3300004: Cube_002
@@ -183,6 +237,24 @@ ModelImporter:
     3300082: Cylinder_021
     3300084: Cylinder_022
     3300086: //RootNode
+    3300088: Platform01
+    3300090: Platform01_001
+    3300092: Platform01_002
+    3300094: Platform01_005
+    3300096: Platform02
+    3300098: Platform_000
+    3300100: Platform_001
+    3300102: Platform_002
+    3300104: Platform_003
+    3300106: Platform_004
+    3300108: PlatformHigh
+    3300110: PlatformHigh_001
+    3300112: PlatformHigh_002
+    3300114: Rock
+    3300116: Rock_001
+    3300118: Rock_002
+    3300120: Rock_003
+    3300122: Rock_004
     4300000: Cube_015
     4300002: Cube_004
     4300004: Cube_026
@@ -226,6 +298,24 @@ ModelImporter:
     4300080: Cube
     4300082: Cube_009
     4300084: Cube_017
+    4300086: Platform01_005
+    4300088: Platform01_002
+    4300090: Platform01_001
+    4300092: Platform02
+    4300094: Platform01
+    4300096: Platform_004
+    4300098: Platform_003
+    4300100: Rock_004
+    4300102: Rock_003
+    4300104: Platform_001
+    4300106: PlatformHigh_001
+    4300108: PlatformHigh
+    4300110: Rock_002
+    4300112: Platform_002
+    4300114: Platform_000
+    4300116: Rock
+    4300118: Rock_001
+    4300120: PlatformHigh_002
     7400000: Default Take
     9500000: //RootNode
   externalObjects: {}
