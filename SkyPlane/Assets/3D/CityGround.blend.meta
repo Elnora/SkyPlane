@@ -6,16 +6,21 @@ ModelImporter:
     100000: //RootNode
     100002: Cube
     100004: FloorBlank
+    100006: cobble
     400000: //RootNode
     400002: Cube
     400004: FloorBlank
+    400006: cobble
     2100000: Material
     2300000: Cube
     2300002: FloorBlank
+    2300004: cobble
     3300000: Cube
     3300002: FloorBlank
+    3300004: cobble
     4300000: FloorBlank
     4300002: Cube
+    4300004: cobble
     7400000: Default Take
     9500000: //RootNode
   externalObjects: {}
