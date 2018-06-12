@@ -66,6 +66,18 @@ ModelImporter:
     100120: Rock_002
     100122: Rock_003
     100124: Rock_004
+    100126: PlatformHigh__0_
+    100128: Collider00
+    100130: Collider01
+    100132: Collider02
+    100134: Collider03
+    100136: Collider04
+    100138: Collider05
+    100140: Tunnel_000
+    100142: Tunnel_001
+    100144: Tunnel_002
+    100146: Tunnel_003
+    100148: Tunnel_004
     400000: Cube
     400002: Cube_001
     400004: Cube_002
@@ -129,6 +141,18 @@ ModelImporter:
     400120: Rock_002
     400122: Rock_003
     400124: Rock_004
+    400126: PlatformHigh__0_
+    400128: Collider00
+    400130: Collider01
+    400132: Collider02
+    400134: Collider03
+    400136: Collider04
+    400138: Collider05
+    400140: Tunnel_000
+    400142: Tunnel_001
+    400144: Tunnel_002
+    400146: Tunnel_003
+    400148: Tunnel_004
     2100000: unnamed
     2100002: test
     2300000: Cube
@@ -193,6 +217,18 @@ ModelImporter:
     2300118: Rock_002
     2300120: Rock_003
     2300122: Rock_004
+    2300124: PlatformHigh__0_
+    2300126: Collider00
+    2300128: Collider01
+    2300130: Collider02
+    2300132: Collider03
+    2300134: Collider04
+    2300136: Collider05
+    2300138: Tunnel_000
+    2300140: Tunnel_001
+    2300142: Tunnel_002
+    2300144: Tunnel_003
+    2300146: Tunnel_004
     3300000: Cube
     3300002: Cube_001
     3300004: Cube_002
@@ -255,6 +291,18 @@ ModelImporter:
     3300118: Rock_002
     3300120: Rock_003
     3300122: Rock_004
+    3300124: PlatformHigh__0_
+    3300126: Collider00
+    3300128: Collider01
+    3300130: Collider02
+    3300132: Collider03
+    3300134: Collider04
+    3300136: Collider05
+    3300138: Tunnel_000
+    3300140: Tunnel_001
+    3300142: Tunnel_002
+    3300144: Tunnel_003
+    3300146: Tunnel_004
     4300000: Cube_015
     4300002: Cube_004
     4300004: Cube_026
@@ -316,6 +364,18 @@ ModelImporter:
     4300116: Rock
     4300118: Rock_001
     4300120: PlatformHigh_002
+    4300122: PlatformHigh__0_
+    4300124: Collider05
+    4300126: Collider04
+    4300128: Collider03
+    4300130: Collider02
+    4300132: Collider01
+    4300134: Collider00
+    4300136: Tunnel_004
+    4300138: Tunnel_003
+    4300140: Tunnel_002
+    4300142: Tunnel_000
+    4300144: Tunnel_001
     7400000: Default Take
     9500000: //RootNode
   externalObjects: {}

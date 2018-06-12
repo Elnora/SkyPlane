@@ -9,44 +9,44 @@ Prefab:
     m_Modifications: []
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 0}
-  m_RootGameObject: {fileID: 1740595128164046}
+  m_RootGameObject: {fileID: 1809566547762134}
   m_IsPrefabParent: 1
---- !u!1 &1740595128164046
+--- !u!1 &1809566547762134
 GameObject:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   serializedVersion: 5
   m_Component:
-  - component: {fileID: 4997352696377790}
-  - component: {fileID: 23958346695341508}
-  - component: {fileID: 33591325954324738}
+  - component: {fileID: 4356788544689762}
+  - component: {fileID: 23142753795364814}
+  - component: {fileID: 33956803293590122}
   m_Layer: 0
-  m_Name: House (4)
+  m_Name: House 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!4 &4997352696377790
+--- !u!4 &4356788544689762
 Transform:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1740595128164046}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_GameObject: {fileID: 1809566547762134}
+  m_LocalRotation: {x: -0.7071068, y: 0, z: 0, w: 0.7071068}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!23 &23958346695341508
+  m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
+--- !u!23 &23142753795364814
 MeshRenderer:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1740595128164046}
+  m_GameObject: {fileID: 1809566547762134}
   m_Enabled: 1
   m_CastShadows: 1
   m_ReceiveShadows: 1
@@ -76,10 +76,10 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
---- !u!33 &33591325954324738
+--- !u!33 &33956803293590122
 MeshFilter:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1740595128164046}
-  m_Mesh: {fileID: 4300162, guid: 7d66473c1919b3d4085ec72061c6fdb6, type: 3}
+  m_GameObject: {fileID: 1809566547762134}
+  m_Mesh: {fileID: 4300160, guid: 7d66473c1919b3d4085ec72061c6fdb6, type: 3}
